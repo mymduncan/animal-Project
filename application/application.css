@@ -1,0 +1,15 @@
+.label {
+	-fx-font-family: cursive;
+	-fx-font-size: 14pt;
+	-fx-padding: 5px;
+}
+
+.textField {
+	-fx-padding: 5px;
+	-fx-font-size: 14pt;
+}
+
+.root {
+	-fx-background-color: rgb(10%, 100%, 50%);
+}
+
